@@ -1,7 +1,7 @@
 package com.company;
 import java.util.Scanner;
 
-public class Task_3 {
+public class Task_3_Area {
     public static double functionF(double x, double index){
         return (Math.pow(x, index + 1)) / (index + 1);
     }
